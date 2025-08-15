@@ -1,0 +1,9 @@
+*.exe
+*.com
+*.obj
+*.o
+*.bak
+*.swp
+*.tmp
+rachel_test
+.DS_Store
